@@ -32,23 +32,23 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 ### Course Schedule
 
-| Day # | Topic                      | Speaker           | Slides / Notes         | Real-time  Lecture Recordings | HW                |
-| ----- | -------------------------- | ----------------- | ---------------------- | ----------------------------- | ----------------- |
-| 1     | Intro: optimization models | Laurent El Ghaoui | [Lect1](LEC/Lect1.pdf) |                               | [HW1](HW/HW1.pdf) |
-| 2     |                            |                   |                        |                               |                   |
-| 3     |                            |                   |                        |                               |                   |
-| 4     |                            |                   |                        |                               |                   |
-| 5     |                            |                   |                        |                               |                   |
-| 6     |                            |                   |                        |                               |                   |
-| 7     |                            |                   |                        |                               |                   |
-| 8     |                            |                   |                        |                               |                   |
-| 9     |                            |                   |                        |                               |                   |
-| 10    |                            |                   |                        |                               |                   |
-| 11    |                            |                   |                        |                               |                   |
-| 12    |                            |                   |                        |                               |                   |
-| 13    |                            |                   |                        |                               |                   |
-| 14    |                            |                   |                        |                               |                   |
-| 15    |                            |                   |                        |                               |                   |
+| Day # | Topic                      | Speaker           | Slides / Notes         | Real-time  Lecture Recordings                                | HW                |
+| ----- | -------------------------- | ----------------- | ---------------------- | ------------------------------------------------------------ | ----------------- |
+| 1     | Intro: optimization models | Laurent El Ghaoui | [Lect1](LEC/Lect1.pdf) | [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/5cd0af0b742e4e0ebcfd/)<br />pw: 0N85atU3 | [HW1](HW/HW1.pdf) |
+| 2     |                            |                   |                        |                                                              |                   |
+| 3     |                            |                   |                        |                                                              |                   |
+| 4     |                            |                   |                        |                                                              |                   |
+| 5     |                            |                   |                        |                                                              |                   |
+| 6     |                            |                   |                        |                                                              |                   |
+| 7     |                            |                   |                        |                                                              |                   |
+| 8     |                            |                   |                        |                                                              |                   |
+| 9     |                            |                   |                        |                                                              |                   |
+| 10    |                            |                   |                        |                                                              |                   |
+| 11    |                            |                   |                        |                                                              |                   |
+| 12    |                            |                   |                        |                                                              |                   |
+| 13    |                            |                   |                        |                                                              |                   |
+| 14    |                            |                   |                        |                                                              |                   |
+| 15    |                            |                   |                        |                                                              |                   |
 
 
 
