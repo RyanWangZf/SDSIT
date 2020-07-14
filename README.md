@@ -7,26 +7,28 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 - Prof. [Laurent El Ghaoui (UC Berkeley)](https://people.eecs.berkeley.edu/~elghaoui/) <elghaoui  [at] berkeley.edu>
 - TA Zifeng Wang (TBSI) <wangzf18 [at] mails.tsinghua.edu.cn>
 
+
+
 ### Syllabus
 
-| Week # | Lec # | Part             | Date      | Beijing Time   | California Time | Title                                              | HW given | HW due |
-| ------ | :---- | ---------------- | --------- | -------------- | --------------- | -------------------------------------------------- | -------- | ------ |
-| 29     | 1     |                  | 2020/7/13 | 8:30am-10:05am | 4:35pm-6:10pm   | Intro: optimization models                         | 1        |        |
-|        | 2     | Machine Learning | 2020/7/15 | 8:30am-10:05am | 4:35pm-6:10pm   | Intro: machine learning                            |          |        |
-|        | 3     |                  | 2020/7/17 | 8:30am-10:05am | 4:35pm-6:10pm   | Covariance estimation                              |          |        |
-| 30     | 4     |                  | 2020/7/20 | 8:30am-10:05am | 4:35pm-6:10pm   | Principal components analysis                      |          |        |
-|        | 5     |                  | 2020/7/22 | 8:30am-10:05am | 4:35pm-6:10pm   | Generalized low rank models and  matrix completion |          |        |
-|        | 6     |                  | 2020/7/24 | 8:30am-10:05am | 4:35pm-6:10pm   | Regression and penalization                        | 2        | 1      |
-| 31     | 7     |                  | 2020/7/27 | 8:30am-10:05am | 4:35pm-6:10pm   | Classification                                     |          |        |
-|        | 8     |                  | 2020/7/29 | 8:30am-10:05am | 4:35pm-6:10pm   | Kernel methods, feature engineering  and encoding  |          |        |
-|        | 9     |                  | 2020/7/31 | 8:30am-10:05am | 4:35pm-6:10pm   | Neural networks                                    |          |        |
-| 32     | 10    | Decision-making  | 2020/8/3  | 8:30am-10:05am | 4:35pm-6:10pm   | Convex functions                                   |          |        |
-|        | 11    |                  | 2020/8/5  | 8:30am-10:05am | 4:35pm-6:10pm   | Convex optimization                                | 3        | 2      |
-|        | 12    |                  | 2020/8/7  | 8:30am-10:05am | 4:35pm-6:10pm   | Conic models                                       |          |        |
-| 33     | 13    |                  | 2020/8/10 | 8:30am-10:05am | 4:35pm-6:10pm   | Robust optimization                                |          |        |
-|        | 14    |                  | 2020/8/12 | 8:30am-10:05am | 4:35pm-6:10pm   | Affine recourse for multi-period  decision models  |          |        |
-|        | 15    |                  | 2020/8/14 | 8:30am-10:05am | 4:35pm-6:10pm   | Review                                             |          |        |
-|        |       |                  | TBD       |                | 3 hours         | Final                                              |          | 3      |
+| Week # | Lec # | Part             | Date      | Beijing Time   | California Time | Title                                              | HW given | HW due | Office Hour |
+| ------ | :---- | ---------------- | --------- | -------------- | --------------- | -------------------------------------------------- | -------- | ------ | ----------- |
+| 29     | 1     |                  | 2020/7/13 | 8:30am-10:05am | 5:30pm-7:05pm   | Intro: optimization models                         | 1        |        |             |
+|        | 2     | Machine Learning | 2020/7/15 | 8:30am-10:05am | 5:30pm-7:05pm   | Intro: machine learning                            |          |        | Yes         |
+|        | 3     |                  | 2020/7/17 | 8:30am-10:05am | 5:30pm-7:05pm   | Covariance estimation                              |          |        |             |
+| 30     | 4     |                  | 2020/7/20 | 8:30am-10:05am | 5:30pm-7:05pm   | Principal components analysis                      |          |        |             |
+|        | 5     |                  | 2020/7/22 | 8:30am-10:05am | 5:30pm-7:05pm   | Generalized low rank models and  matrix completion |          |        | Yes         |
+|        | 6     |                  | 2020/7/24 | 8:30am-10:05am | 5:30pm-7:05pm   | Regression and penalization                        | 2        | 1      |             |
+| 31     | 7     |                  | 2020/7/27 | 8:30am-10:05am | 5:30pm-7:05pm   | Classification                                     |          |        |             |
+|        | 8     |                  | 2020/7/29 | 8:30am-10:05am | 5:30pm-7:05pm   | Kernel methods, feature engineering  and encoding  |          |        | Yes         |
+|        | 9     |                  | 2020/7/31 | 8:30am-10:05am | 5:30pm-7:05pm   | Neural networks                                    |          |        |             |
+| 32     | 10    | Decision-making  | 2020/8/3  | 8:30am-10:05am | 5:30pm-7:05pm   | Convex functions                                   |          |        |             |
+|        | 11    |                  | 2020/8/5  | 8:30am-10:05am | 5:30pm-7:05pm   | Convex optimization                                | 3        | 2      | Yes         |
+|        | 12    |                  | 2020/8/7  | 8:30am-10:05am | 5:30pm-7:05pm   | Conic models                                       |          |        |             |
+| 33     | 13    |                  | 2020/8/10 | 8:30am-10:05am | 5:30pm-7:05pm   | Robust optimization                                |          |        |             |
+|        | 14    |                  | 2020/8/12 | 8:30am-10:05am | 5:30pm-7:05pm   | Affine recourse for multi-period  decision models  |          |        | Yes         |
+|        | 15    |                  | 2020/8/14 | 8:30am-10:05am | 5:30pm-7:05pm   | Review                                             |          |        |             |
+|        |       |                  | TBD       |                | 3 hours         | Final                                              |          | 3      |             |
 
 
 
