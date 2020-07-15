@@ -10,7 +10,8 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 - Prof. [Laurent El Ghaoui (UC Berkeley)](https://people.eecs.berkeley.edu/~elghaoui/) <elghaoui  [at] berkeley.edu>
 - TA Zifeng Wang (TBSI) <wangzf18 [at] mails.tsinghua.edu.cn>
-- 
+
+
 
 ### Schedule
 
