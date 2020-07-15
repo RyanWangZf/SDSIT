@@ -2,12 +2,15 @@
 
 Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley Shenzhen Institute (TBSI).
 
+*Notice*: the password access to all links below is shared in the course WeChat group, please check.
+
+
+
 ### Instructors
 
 - Prof. [Laurent El Ghaoui (UC Berkeley)](https://people.eecs.berkeley.edu/~elghaoui/) <elghaoui  [at] berkeley.edu>
 - TA Zifeng Wang (TBSI) <wangzf18 [at] mails.tsinghua.edu.cn>
-
-
+- 
 
 ### Schedule
 
@@ -36,9 +39,9 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 | Day # | Topic                                             | Speaker           | Slides / Notes                                               | Real-time  Lecture Recordings                                | HW                                                           |
 | ----- | ------------------------------------------------- | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | Intro: optimization models                        | Laurent El Ghaoui | [Lect1](https://cloud.tsinghua.edu.cn/f/a4b7d6177c834266bafa/) | [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/e95a96694ab4411db9ef/) | [HW1](https://cloud.tsinghua.edu.cn/f/1df50b71c25248799321/)<br />[Data](https://cloud.tsinghua.edu.cn/f/3fc33723e0f04836b831/) |
-| 2     | Intro: machine learning                           | Laurent El Ghaoui | [Lec2](https://cloud.tsinghua.edu.cn/f/68587cb22b1f4391b347/) | [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/9c2c3e3416db475997c5/) |                                                              |
-| 3     | Covariance estimation                             | Laurent El Ghaoui | [Lec3](https://cloud.tsinghua.edu.cn/f/6165ac02bb2d42588171/) |                                                              |                                                              |
+| 1     | Intro: optimization models                        | Laurent El Ghaoui | [Lect1](https://cloud.tsinghua.edu.cn/f/a4b7d6177c834266bafa/) | [Rec1](https://cloud.tsinghua.edu.cn/f/e95a96694ab4411db9ef/) | [HW1](https://cloud.tsinghua.edu.cn/f/1df50b71c25248799321/)<br />&<br />[HW1-Data](https://cloud.tsinghua.edu.cn/f/3fc33723e0f04836b831/) |
+| 2     | Intro: machine learning                           | Laurent El Ghaoui | [Lect2](https://cloud.tsinghua.edu.cn/f/68587cb22b1f4391b347/) | [Rec2](https://cloud.tsinghua.edu.cn/f/9c2c3e3416db475997c5/) |                                                              |
+| 3     | Covariance estimation                             | Laurent El Ghaoui | [Lect3](https://cloud.tsinghua.edu.cn/f/6165ac02bb2d42588171/) |                                                              |                                                              |
 | 4     | Principal components analysis                     | Laurent El Ghaoui |                                                              |                                                              |                                                              |
 | 5     | Generalized low rank models and matrix completion | Laurent El Ghaoui |                                                              |                                                              |                                                              |
 | 6     | Regression and penalization                       | Laurent El Ghaoui |                                                              |                                                              |                                                              |
