@@ -24,17 +24,17 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |        | 2     | 2020/7/15 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
 |        | 3     | 2020/7/17 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 | 30     | 4     | 2020/7/20 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
-|        | 5     | 2020/7/22 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
-|        | 6     | 2020/7/24 | 8:30am-10:05am | 5:30pm-7:05pm   | 2        | 1      |             |
+|        | 5     | 2020/7/22 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 6     | 2020/7/24 | 8:30am-10:05am | 5:30pm-7:05pm   | 2        | 1      | Yes         |
 | 31     | 7     | 2020/7/27 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
-|        | 8     | 2020/7/29 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
-|        | 9     | 2020/7/31 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 8     | 2020/7/29 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 9     | 2020/7/31 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 | 32     | 10    | 2020/8/3  | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
-|        | 11    | 2020/8/5  | 8:30am-10:05am | 5:30pm-7:05pm   | 3        | 2      | Yes         |
-|        | 12    | 2020/8/7  | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 11    | 2020/8/5  | 8:30am-10:05am | 5:30pm-7:05pm   | 3        | 2      |             |
+|        | 12    | 2020/8/7  | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 | 33     | 13    | 2020/8/10 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
-|        | 14    | 2020/8/12 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
-|        | 15    | 2020/8/14 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 14    | 2020/8/12 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 15    | 2020/8/14 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 |        |       | TBD       |                | 3 hours         |          | 3      |             |
 
 
@@ -47,7 +47,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 | 2     | Intro: machine learning                           | Laurent El Ghaoui | [Lect2](https://cloud.tsinghua.edu.cn/f/68587cb22b1f4391b347/)<br />&<br />[Lect2(annot)](https://cloud.tsinghua.edu.cn/f/150c09df49ec4bf6a4f9/) | [Rec2](https://cloud.tsinghua.edu.cn/f/9c2c3e3416db475997c5/) |                                                              |
 | 3     | Covariance estimation                             | Laurent El Ghaoui | [Lect3](https://cloud.tsinghua.edu.cn/f/6165ac02bb2d42588171/)<br />&<br />[Lect3(annot)](https://cloud.tsinghua.edu.cn/f/9c7ecd27ee4943ea820b/) | [Rec3](https://cloud.tsinghua.edu.cn/f/7cce93b3a920468a82ec/) |                                                              |
 | 4     | Principal components analysis                     | Laurent El Ghaoui | [Lect4](https://cloud.tsinghua.edu.cn/f/693d1672a90d40388ca5/) | [Rec4](https://cloud.tsinghua.edu.cn/f/4504e7efd31b4aedbfad/) |                                                              |
-| 5     | Generalized low rank models and matrix completion | Laurent El Ghaoui | [Lect5](https://cloud.tsinghua.edu.cn/f/1226fb0aa4f042fdb876/) |                                                              |                                                              |
+| 5     | Generalized low rank models and matrix completion | Laurent El Ghaoui | [Lect5](https://cloud.tsinghua.edu.cn/f/1226fb0aa4f042fdb876/) | [Rec5](https://cloud.tsinghua.edu.cn/f/3058381cddc54a73b604/) |                                                              |
 | 6     | Regression and penalization                       | Laurent El Ghaoui | [Lect6](https://cloud.tsinghua.edu.cn/f/452bddbdb755415a8e94/) |                                                              |                                                              |
 | 7     | Classification                                    | Laurent El Ghaoui | [Lect7](https://cloud.tsinghua.edu.cn/f/02cf0b8f6dfe4300853a/) |                                                              |                                                              |
 | 8     | Kernel methods, feature engineering and encoding  | Laurent El Ghaoui | [Lect8](https://cloud.tsinghua.edu.cn/f/a5619c7987ea4e209e03/) |                                                              |                                                              |
