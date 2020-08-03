@@ -26,13 +26,13 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 | 30     | 4     | 2020/7/20 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
 |        | 5     | 2020/7/22 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
 |        | 6     | 2020/7/24 | 8:30am-10:05am | 5:30pm-7:05pm   | 2        | 1      | Yes         |
-| 31     | 7     | 2020/7/27 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+| 31     | 7     | 2020/7/27 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 |        | 8     | 2020/7/29 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
-|        | 9     | 2020/7/31 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
-| 32     | 10    | 2020/8/3  | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 9     | 2020/7/31 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+| 32     | 10    | 2020/8/3  | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 |        | 11    | 2020/8/5  | 8:30am-10:05am | 5:30pm-7:05pm   | 3        | 2      |             |
-|        | 12    | 2020/8/7  | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
-| 33     | 13    | 2020/8/10 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+|        | 12    | 2020/8/7  | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
+| 33     | 13    | 2020/8/10 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 |        | 14    | 2020/8/12 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
 |        | 15    | 2020/8/14 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 |        |       | TBD       |                | 3 hours         |          | 3      |             |
@@ -49,15 +49,15 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 | 4     | Principal components analysis                     | Laurent El Ghaoui | [Lect4](https://cloud.tsinghua.edu.cn/f/693d1672a90d40388ca5/) | [Rec4](https://cloud.tsinghua.edu.cn/f/4504e7efd31b4aedbfad/) |                                                              |
 | 5     | Generalized low rank models and matrix completion | Laurent El Ghaoui | [Lect5](https://cloud.tsinghua.edu.cn/f/1226fb0aa4f042fdb876/) | [Rec5](https://cloud.tsinghua.edu.cn/f/3058381cddc54a73b604/) |                                                              |
 | 6     | Regression and penalization                       | Laurent El Ghaoui | [Lect6](https://cloud.tsinghua.edu.cn/f/452bddbdb755415a8e94/) | [Rec6](https://cloud.tsinghua.edu.cn/f/cc6f3fe5646f4ca0abed/) |                                                              |
-| 7     | Classification                                    | Laurent El Ghaoui | [Lect7](https://cloud.tsinghua.edu.cn/f/02cf0b8f6dfe4300853a/) | [Rec7](https://cloud.tsinghua.edu.cn/f/260333e5125f425a98b1/) |                                                              |
+| 7     | Classification                                    | Laurent El Ghaoui | [Lect7](https://cloud.tsinghua.edu.cn/f/02cf0b8f6dfe4300853a/) | [Rec7](https://cloud.tsinghua.edu.cn/f/260333e5125f425a98b1/) | [HW1-sol]()                                                  |
 | 8     | Kernel methods, feature engineering and encoding  | Laurent El Ghaoui | [Lect8](https://cloud.tsinghua.edu.cn/f/a5619c7987ea4e209e03/) | [Rec8](https://zoom.com.cn/rec/share/_NVEN7fM6TtLadbL9VHmApIDT5bnX6a81ykY8vYOxUfu-ZNGCuzAJJGJqyxFhTR8) | [HW2](https://cloud.tsinghua.edu.cn/f/e9e0ab1150284df3bc70/) |
-| 9     | Neural networks                                   | Laurent El Ghaoui |                                                              |                                                              |                                                              |
-| 10    | Convex functions                                  | Laurent El Ghaoui |                                                              |                                                              |                                                              |
-| 11    | Convex optimization                               | Laurent El Ghaoui |                                                              |                                                              |                                                              |
-| 12    | Conic models                                      | Laurent El Ghaoui |                                                              |                                                              |                                                              |
-| 13    | Robust optimization                               | Laurent El Ghaoui |                                                              |                                                              |                                                              |
-| 14    | Affine recourse for multi-period decision models  | Laurent El Ghaoui |                                                              |                                                              |                                                              |
-| 15    | Review                                            | Laurent El Ghaoui |                                                              |                                                              |                                                              |
+| 9     | Neural networks                                   | Laurent El Ghaoui |                                                              | [Rec9](https://zoom.com.cn/rec/share/psJeFZuq9D9OTNLP-lzVcf4TOKfFX6a80HAZ-aFbn0i-UmbNnE0stSzMPzdhDoaE) |                                                              |
+| 10    | Convex functions                                  | Laurent El Ghaoui | [Lec10](https://cloud.tsinghua.edu.cn/f/a2c7fb758d7449d18ab5/) | [Rec10](https://zoom.com.cn/rec/share/1MBFcuj5xHNOGp2c51nyau0QQY_FT6a8hiBLrvcMxUyq3StIF4-sovgYXYlUtXxY) |                                                              |
+| 11    | Convex optimization                               | Laurent El Ghaoui | [Lec11](https://cloud.tsinghua.edu.cn/f/63e83e7200364c33ace8/) |                                                              |                                                              |
+| 12    | Conic models                                      | Laurent El Ghaoui | [Lec12](https://cloud.tsinghua.edu.cn/f/6dd2bb63317945e1bcab/) |                                                              |                                                              |
+| 13    | Robust optimization                               | Laurent El Ghaoui | [Lec13](https://cloud.tsinghua.edu.cn/f/ccd0f59e540a4c03b5f2/) |                                                              |                                                              |
+| 14    | Affine recourse for multi-period decision models  | Laurent El Ghaoui | [Lec14](https://cloud.tsinghua.edu.cn/f/4cd4ef6b837a4f1ebe3c/) |                                                              |                                                              |
+| 15    | Review                                            | Laurent El Ghaoui | [Lec15](https://cloud.tsinghua.edu.cn/f/3cc58506126f4d3697a7/) |                                                              |                                                              |
 
 
 
