@@ -18,7 +18,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 ### Final Project
 
-- [8/10 update] [Guideline](./NOTE/Project Guideline SDSIT 2020.pdf) for the final project.
+- [8/10 update] [Guideline](NOTE/Project-Guideline-SDSIT-2020.pdf) for the final project.
 
 
 
