@@ -16,6 +16,12 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 
 
+### Final Project
+
+- [8/10 update] [Guideline](./NOTE/Project Guideline SDSIT 2020.pdf) for the final project.
+
+
+
 ### Schedule
 
 | Week # | Lec # | Date      | Beijing Time   | California Time | HW given | HW due | Office Hour |
@@ -55,7 +61,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 | 10    | Convex functions                                  | Laurent El Ghaoui | [Lec10](https://cloud.tsinghua.edu.cn/f/a2c7fb758d7449d18ab5/) | [Rec10](https://zoom.com.cn/rec/share/1MBFcuj5xHNOGp2c51nyau0QQY_FT6a8hiBLrvcMxUyq3StIF4-sovgYXYlUtXxY) |                                                              |
 | 11    | Convex optimization                               | Laurent El Ghaoui | [Lec11](https://cloud.tsinghua.edu.cn/f/63e83e7200364c33ace8/) | [Rec11](https://zoom.com.cn/rec/share/1PJZC43WxEJOcs_Qxn7Va6okAcP6T6a82iAX_PMIxUoJAo0eYMtA--0Xv0ioG1ll) |                                                              |
 | 12    | Conic models                                      | Laurent El Ghaoui | [Lec12](https://cloud.tsinghua.edu.cn/f/6dd2bb63317945e1bcab/) | [Rec12](https://zoom.com.cn/rec/share/7uFSKuDq3UVOb4315GzcQKd8BqDXaaa80CEd-vpYmEnQVlNV2MQjCyljhoxzDihP) |                                                              |
-| 13    | Robust optimization                               | Laurent El Ghaoui | [Lec13](https://cloud.tsinghua.edu.cn/f/ccd0f59e540a4c03b5f2/) |                                                              |                                                              |
+| 13    | Robust optimization                               | Laurent El Ghaoui | [Lec13](https://cloud.tsinghua.edu.cn/f/ccd0f59e540a4c03b5f2/) | [Rec13](https://zoom.com.cn/rec/share/6tQpC7b6tTpIE43V1H_le_8dD53sX6a8gSlIqPQKyx61sOVunFX1gGdVz9B391hm) |                                                              |
 | 14    | Affine recourse for multi-period decision models  | Laurent El Ghaoui | [Lec14](https://cloud.tsinghua.edu.cn/f/4cd4ef6b837a4f1ebe3c/) |                                                              |                                                              |
 | 15    | Review                                            | Laurent El Ghaoui | [Lec15](https://cloud.tsinghua.edu.cn/f/3cc58506126f4d3697a7/) |                                                              |                                                              |
 
