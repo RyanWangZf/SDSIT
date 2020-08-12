@@ -18,6 +18,8 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 ### Final Project
 
+- [8/12 update] The final project presentation has been decided on **Monday 8:30 AM (8/17)** !
+
 - [8/10 update] [Guideline](NOTE/Project-Guideline-SDSIT-2020.pdf) for the final project.
 
 
@@ -41,7 +43,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 | 33     | 13    | 2020/8/10 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
 |        | 14    | 2020/8/12 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        |             |
 |        | 15    | 2020/8/14 | 8:30am-10:05am | 5:30pm-7:05pm   |          |        | Yes         |
-|        |       | TBD       |                | 3 hours         |          | 3      |             |
+| 34     | 16    | 8/17      | 8:30am         | 3 hours         |          | 3      |             |
 
 
 
